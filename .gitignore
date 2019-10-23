@@ -1,2 +1,12 @@
 node_modules/
 *.log
+bunyan
+bunyan.cmd
+ncp
+ncp.cmd
+rimraf
+rimraf.cmd
+mkdirp
+mkdirp.cmd
+mime
+mime.cmd
